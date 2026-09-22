@@ -1,1 +1,0 @@
-console.log("Hola JavaScript") //Es la operación para escribir en consola, se nos muestra lo que hay entre parentesis
